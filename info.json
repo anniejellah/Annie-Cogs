@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "Thomas Mercurio",
+    "INSTALL_MSG" : "Annie-cogs has been successfully installed.",
+    "NAME" : "annie-cogs",
+    "SHORT" : "Random cogs intended for a specific server.",
+    "DESCRIPTION" : "Custom commands that can have more than one reaction, a profile page for users, etc."
+}
