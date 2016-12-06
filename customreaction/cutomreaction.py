@@ -37,7 +37,7 @@ class CustomReactions:
 
     @commands.command(pass_context=True)
     @checks.is_owner()
-    async def acr(self, ctx, command: str, *, text):
+    async def _acr(self, ctx, command: str, *, text):
         """Adds a global custom reaction
         Example:
         !addcr yourcommand Text you want
